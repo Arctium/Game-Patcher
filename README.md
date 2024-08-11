@@ -1,5 +1,5 @@
-# WoW Client Patcher
-A Client Patcher for modern World of Warcraft that allows you to connect to custom servers.
+# Game Patcher
+A game patcher for modern World of Warcraft clients that enables connection to custom servers.
 
 #### Requires a trusted certificate on server & client side.
 
